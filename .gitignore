@@ -1,0 +1,4 @@
+data/
+artifact_downloads/
+mlruns/
+deploy-automl-forecasting.ipynb
